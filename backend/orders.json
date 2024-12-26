@@ -1,0 +1,19 @@
+[
+  {
+    "phoneNumber": "0655492866",
+    "orders": [
+      {
+        "name": "Product 1",
+        "price": 10,
+        "quantity": 1
+      },
+      {
+        "name": "Product 3",
+        "price": 15,
+        "quantity": 1
+      }
+    ],
+    "totalPrice": "25.00",
+    "timestamp": "2024-12-24T10:20:23.549Z"
+  }
+]
