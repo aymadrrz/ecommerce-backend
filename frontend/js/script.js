@@ -100,7 +100,7 @@ document.getElementById('place-order').addEventListener('click', () => {
         return;
     }
 
-    fetch('http://localhost:3000/api/orders', {
+    fetch('https://bejewelled-blini-ca4f49.netlify.app/api/orders', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
